@@ -1,5 +1,5 @@
 var katzDeli = [];
 
-function takeANumber(people, katzDeliLine, newname) {
+function takeANumber(katzDeliLine, newname) {
   return katzDeliLine
 }
